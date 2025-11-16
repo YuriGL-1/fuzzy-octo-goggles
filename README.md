@@ -11,4 +11,4 @@ keyboard.add_hotkey('ctrl+shift+capslock', comecar)<br>
 print("press CTRL+SHIFT+CAPSLOCK for enable/disable the auto clicker")
 
 # Observation:
-some words were in portugueze(brazil), because its my language 
+some words are in portugueze(brazil), because its my language 

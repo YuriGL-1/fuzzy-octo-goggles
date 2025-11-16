@@ -41,7 +41,7 @@ def autoclick():
 ##
 
 # start the auto clicker
-def começar():
+def comecar():
     global clicando
     clicando = not clicando
     if clicando: 
@@ -53,7 +53,7 @@ def começar():
 
 
 # shortcut | ATALHOS
-keyboard.add_hotkey('ctrl+shift+space', começar)
+keyboard.add_hotkey('ctrl+shift+space', comecar)
 print("press CTRL+SHIFT+R for enable/disable the auto clicker")
 print("press ESC for exit the program")
 
@@ -83,3 +83,4 @@ print('program closed.')
 
 
     
+
